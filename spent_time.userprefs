@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="spent_time/MainWindow.cs" ctype="Workbench">
+    <Files>
+      <File FileName="spent_time/MainWindow.cs" Line="35" Column="2" />
+      <File FileName="spent_time/Timer.cs" Line="44" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="spent_time" expanded="True">
+            <Node name="UserInterface" expanded="True" />
+            <Node name="MainWindow.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="spent_time" expanded="True">
+            <Node name="MainWindow" expanded="True" selected="True" />
+            <Node name="spent_time" expanded="True">
+              <Node name="spent_time.MainClass" expanded="True" />
+            </Node>
+            <Node name="Stetic" expanded="True">
+              <Node name="Stetic.ActionGroups" expanded="True" />
+              <Node name="Stetic.Gui" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
